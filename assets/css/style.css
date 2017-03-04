@@ -1,0 +1,44 @@
+body {
+	background-image: url('../images/sakura.png');
+}
+ 
+ #main-container {
+ 	background-color: teal;
+ }
+
+
+.jumbotron {
+	background-color: orange;
+}
+
+h2 {
+	color: red;
+	
+}
+p {
+	color: black;
+}
+h1 {
+	font-weight: bold; 
+    color: hotpink ;
+}
+h4 {
+    
+	font-weight: bold;
+	font-size: 30px;
+  text-align: left;
+  color: green;
+  margin-top: 40px;
+}
+h3 {
+	text-align: center;
+	color: black;
+	padding-color: 10px blue;
+	font-size: 35px;
+}
+.question {
+	color: purple;
+
+	margin-right: 20px;
+	width: 500px;
+}
